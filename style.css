@@ -1,6 +1,8 @@
 *{margin: 0; padding: 0;}
 a{text-decoration: none;}
-body{background: grey url(./wall.jpg) no-repeat center center;
+
+
+body{background: grey url(./wall3.jpg) no-repeat center center;
      background-size: cover;    
 }
 kbd{ border: 1px solid red; width: 4em;height: 4em;display: inline-block;
